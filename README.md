@@ -12,7 +12,7 @@ This program identifies the **longest** and **second longest compound words** fr
 1. **Prepare Input File**: Create a text file with one word per line.
 2. **Run the Program**:
    - Execute the script Solution.py and provide the file name when prompted.
-   - example:-
+   - Example:-
    ```bash
    Enter file name: Input_01.txt
    ```
